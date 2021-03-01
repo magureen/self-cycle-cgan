@@ -5,8 +5,11 @@ face agingや性別、人種の変換などができます。
 
 # デモ
 ソース1
+
 ![ソース](https://raw.githubusercontent.com/magureen/self-cycle-cgan/main/img/0_s.png)
+
 変換1
+
 ![変換](https://raw.githubusercontent.com/magureen/self-cycle-cgan/main/img/0.png)
 
 ソース2
