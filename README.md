@@ -5,6 +5,7 @@ cycleganをcganにして多ドメイン相互変換を可能にしたもの。
 
 使用例としてface agingや性別、人種の変換などができます。
 
+
 # デモ
 ソース1
 
@@ -21,3 +22,6 @@ cycleganをcganにして多ドメイン相互変換を可能にしたもの。
 変換2
 
 ![変換2](https://raw.githubusercontent.com/magureen/self-cycle-cgan/main/img/1_c.png)
+
+
+[UTKFace](https://susanqq.github.io/UTKFace/)とノートブックを使用してモデルを自分でトレーニングできます。
