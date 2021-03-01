@@ -10,7 +10,7 @@ face agingや性別、人種の変換などができます。
 
 変換1
 
-![変換](https://raw.githubusercontent.com/magureen/self-cycle-cgan/main/img/0.png)
+![変換](https://raw.githubusercontent.com/magureen/self-cycle-cgan/main/img/0_c.png)
 
 ソース2
 
@@ -18,4 +18,4 @@ face agingや性別、人種の変換などができます。
 
 変換2
 
-![変換2](https://raw.githubusercontent.com/magureen/self-cycle-cgan/main/img/1.png)
+![変換2](https://raw.githubusercontent.com/magureen/self-cycle-cgan/main/img/1_c.png)
